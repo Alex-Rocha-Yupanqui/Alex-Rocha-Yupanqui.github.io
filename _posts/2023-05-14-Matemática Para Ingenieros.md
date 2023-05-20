@@ -28,7 +28,7 @@ $$
 
 | Ver en Apuntes de la clase: |
 |:-----------------------------:|
-| [Notas de Matemática Para Ingenieros](https://alex-rocha-yupanqui.github.io/bookdown-demo-/)          | 
+| [Notas de Matemática Para Ingenieros](https://alex-rocha-yupanqui.github.io/MatForEngineers2023/)          | 
 
  
 
