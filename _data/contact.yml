@@ -12,7 +12,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url: 'https://www.linkedin.com/in/alex-rocha-44524a177/'  
+  url: "https://www.linkedin.com/in/alex-rocha-44524a177/"  
 
 #- type: rss
 #  icon: "fas fa-rss"
